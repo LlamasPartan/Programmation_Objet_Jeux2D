@@ -5,3 +5,5 @@ Bibliothèques utilisées :
  - SFML
 
 Le cours se trouve sur le wiki Llamas'partan.
+
+La branche "master" est la dernière version du projet, les autres branches permettent de reprendre le cours d'une des pages.
